@@ -69,4 +69,4 @@ testem.log
 Thumbs.db
 
 #Prod env variable which API end point in PRD
-/src/environments/*.prod.ts
+/src/environments/environment.prod.ts
