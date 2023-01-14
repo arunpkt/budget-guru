@@ -1,0 +1,7 @@
+{
+    "*/categories": {
+        "target": "https://f9za6eg7s3.execute-api.ap-south-1.amazonaws.com",
+        "secure": true,
+        "logLevel": "debug"
+    }
+}

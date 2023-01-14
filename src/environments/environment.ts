@@ -3,7 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  INCOME_CATEGORY_URL : "http://127.0.0.1:3000/categories/income",
+  EXPENSE_CATEGORY_URL : "http://127.0.0.1:3000/categories/expense",
+  INCOME_POST_TRANSACTION_URL : "http://127.0.0.1:3000/transaction/",
+  TRANSACTION_LIST_URL : "http://127.0.0.1:3000/transaction/transactionlist"
 };
 
 /*

@@ -67,3 +67,6 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+#Prod env variable which API end point in PRD
+/src/environments/*.prod.ts
